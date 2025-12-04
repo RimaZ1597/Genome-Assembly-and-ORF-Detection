@@ -35,7 +35,7 @@ The ORF detection script:
 - Searches for high-scoring start sites (ATG/GTG)  
 - Extends ORFs to stop codons (TAA, TAG, TGA)  
 - Ensures ORF ≥ minimum length  
-- Writes annotated ORFs to a FASTA output (`rima.fa`)
+- Writes annotated ORFs to a FASTA output
 
 ---
 ## Purpose of This Project
