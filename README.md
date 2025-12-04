@@ -10,7 +10,7 @@ The assembly script:
 - Computes pairwise overlaps using suffix–prefix matching  
 - Merges reads into longer contigs based on a minimum overlap `k`  
 - Removes redundant contigs  
-- Writes final contigs to FASTA (`RimaAssignment1.fasta`) and CSV  
+- Writes final contigs to FASTA and CSV  
 
 ---
 
