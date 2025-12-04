@@ -12,10 +12,6 @@ The assembly script:
 - Removes redundant contigs  
 - Writes final contigs to FASTA (`RimaAssignment1.fasta`) and CSV  
 
-**Output:**  
-- `merged_all_contigs.csv`  
-- `RimaAssignment1.fasta`
-
 ---
 
 ### **2. Contig Overlap Detection & Merging**
