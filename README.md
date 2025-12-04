@@ -1,6 +1,6 @@
 # Greedy Genome Assembly and ORF Detection Pipeline
 
-This repository contains Python scripts that implement a small-scale genome assembly workflow using a **greedy overlap algorithm**, followed by **coverage analysis** and **ORF detection using motif-based scoring**. The project demonstrates how raw sequencing reads can be assembled into contigs and how biological features such as ORFs can be extracted from assembled sequences.
+This project contains Python scripts that implement a small-scale genome assembly workflow using a **greedy overlap algorithm**, followed by **coverage analysis** and **ORF detection using motif-based scoring**. The project demonstrates how raw sequencing reads can be assembled into contigs and how biological features such as ORFs can be extracted from assembled sequences.
 
 ---
 
